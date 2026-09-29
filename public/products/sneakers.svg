@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="12"/>
+  <path d="M155 170 Q155 130 170 115 L175 110 Q185 100 200 100 Q215 100 225 110 L230 115 Q245 130 245 170" fill="#7c3aed" opacity="0.12" stroke="#7c3aed" stroke-width="2"/>
+  <path d="M155 170 Q150 175 148 180 L252 180 Q250 175 245 170" fill="#7c3aed" opacity="0.08"/>
+  <path d="M148 180 L148 185 Q148 190 155 190 L245 190 Q252 190 252 185 L252 180" fill="#7c3aed" opacity="0.15" stroke="#7c3aed" stroke-width="1.5"/>
+  <path d="M170 115 L168 135 Q167 145 172 148 L200 155 L228 148 Q233 145 232 135 L230 115" fill="#7c3aed" opacity="0.08"/>
+  <ellipse cx="200" cy="108" rx="14" ry="5" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"/>
+  <line x1="185" y1="165" x2="190" y2="155" stroke="#7c3aed" stroke-width="1.2" opacity="0.4"/>
+  <line x1="215" y1="165" x2="210" y2="155" stroke="#7c3aed" stroke-width="1.2" opacity="0.4"/>
+  <rect x="24" y="24" width="60" height="28" rx="6" fill="rgba(0,0,0,0.08)"/>
+  <text x="54" y="43" fill="#334155" font-size="12" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Apparel</text>
+  <text x="200" y="240" fill="#334155" font-size="14" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Knit Sneakers</text>
+</svg>

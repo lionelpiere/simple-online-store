@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="12"/>
+  <path d="M175 70 L155 80 L130 100 L145 110 L160 95 L160 190 L240 190 L240 95 L255 110 L270 100 L245 80 L225 70" fill="#2563eb" opacity="0.08" stroke="#2563eb" stroke-width="2"/>
+  <path d="M175 70 Q185 60 200 58 Q215 60 225 70" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.5"/>
+  <path d="M195 58 L195 85" fill="none" stroke="#2563eb" stroke-width="1" opacity="0.25"/>
+  <path d="M205 58 L205 85" fill="none" stroke="#2563eb" stroke-width="1" opacity="0.25"/>
+  <circle cx="200" cy="95" r="2.5" fill="#2563eb" opacity="0.3"/>
+  <circle cx="200" cy="112" r="2.5" fill="#2563eb" opacity="0.3"/>
+  <circle cx="200" cy="129" r="2.5" fill="#2563eb" opacity="0.3"/>
+  <circle cx="200" cy="146" r="2.5" fill="#2563eb" opacity="0.3"/>
+  <circle cx="200" cy="163" r="2.5" fill="#2563eb" opacity="0.3"/>
+  <rect x="24" y="24" width="60" height="28" rx="6" fill="rgba(0,0,0,0.08)"/>
+  <text x="54" y="43" fill="#334155" font-size="12" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Apparel</text>
+  <text x="200" y="240" fill="#334155" font-size="14" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Oxford Shirt</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fefce8"/>
+      <stop offset="100%" stop-color="#fef9c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="12"/>
+  <path d="M165 60 L165 175 Q165 185 175 185 L225 185 Q235 185 235 175 L235 60 Q235 50 225 50 L175 50 Q165 50 165 60 Z" fill="#b45309" opacity="0.1" stroke="#b45309" stroke-width="2"/>
+  <rect x="172" y="56" width="56" height="8" rx="2" fill="#b45309" opacity="0.25"/>
+  <path d="M175 50 Q200 38 225 50" fill="none" stroke="#b45309" stroke-width="2.5" opacity="0.5"/>
+  <line x1="172" y1="70" x2="228" y2="70" stroke="#b45309" stroke-width="0.8" opacity="0.2"/>
+  <rect x="175" y="78" width="50" height="25" rx="3" fill="#b45309" opacity="0.08"/>
+  <rect x="180" y="84" width="40" height="3" rx="1" fill="#b45309" opacity="0.15"/>
+  <rect x="180" y="90" width="35" height="3" rx="1" fill="#b45309" opacity="0.15"/>
+  <rect x="175" y="112" width="50" height="25" rx="3" fill="#b45309" opacity="0.06"/>
+  <rect x="175" y="145" width="50" height="25" rx="3" fill="#b45309" opacity="0.06"/>
+  <circle cx="200" cy="177" r="5" fill="#b45309" opacity="0.2"/>
+  <rect x="24" y="24" width="60" height="28" rx="6" fill="rgba(0,0,0,0.08)"/>
+  <text x="54" y="43" fill="#334155" font-size="12" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Apparel</text>
+  <text x="200" y="235" fill="#334155" font-size="14" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Canvas Backpack</text>
+</svg>

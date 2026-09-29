@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f0fdf4"/>
+      <stop offset="100%" stop-color="#dcfce7"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)" rx="12"/>
+  <path d="M160 70 L152 90 L148 170 Q148 185 165 185 L235 185 Q252 185 252 170 L248 90 L240 70 Z" fill="#166534" opacity="0.12" stroke="#166534" stroke-width="2"/>
+  <line x1="180" y1="70" x2="180" y2="90" stroke="#166534" stroke-width="1" opacity="0.3"/>
+  <line x1="200" y1="70" x2="200" y2="90" stroke="#166534" stroke-width="1" opacity="0.3"/>
+  <line x1="220" y1="70" x2="220" y2="90" stroke="#166534" stroke-width="1" opacity="0.3"/>
+  <path d="M168 70 Q168 55 182 50 L200 48 L218 50 Q232 55 232 70" fill="none" stroke="#166534" stroke-width="2.5"/>
+  <path d="M150 100 L148 105 Q135 110 132 120 L132 145 Q132 150 140 150 L148 148" fill="none" stroke="#166534" stroke-width="2" opacity="0.6"/>
+  <path d="M250 100 L252 105 Q265 110 268 120 L268 145 Q268 150 260 150 L252 148" fill="none" stroke="#166534" stroke-width="2" opacity="0.6"/>
+  <rect x="180" y="96" width="40" height="20" rx="3" fill="#166534" opacity="0.2"/>
+  <rect x="24" y="24" width="60" height="28" rx="6" fill="rgba(0,0,0,0.08)"/>
+  <text x="54" y="43" fill="#334155" font-size="12" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Apparel</text>
+  <text x="200" y="235" fill="#334155" font-size="14" font-family="-apple-system, sans-serif" font-weight="600" text-anchor="middle">Commuter Jacket</text>
+</svg>
